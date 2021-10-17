@@ -6,13 +6,17 @@ public class Main {
 	System.out.println("hello world!!!");
 	System.out.println("this is my first java project with git and intelij by dev1!!");
 	Sum();
+	subtract();
 	System.out.println("main end");
     }
     public static void Sum()
     {
         int value=10,b=20;
-	    long l=2l;
         System.out.println("sum = "+value+b);
-	System.out.println("method end"+l);
+    }
+    public static void subtract()
+    {
+        int value=10,b=20;
+        System.out.println("subtract = "+(value-b));
     }
 }
