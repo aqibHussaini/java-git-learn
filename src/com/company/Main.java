@@ -10,6 +10,6 @@ public class Main {
     public static void sum()
     {
         int a=19,b=1;
-        System.out.println(a+b);
+        System.out.println("sum = "+a+b);
     }
 }
