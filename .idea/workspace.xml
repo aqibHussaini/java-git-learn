@@ -55,4 +55,14 @@
     </task>
     <servers />
   </component>
+  <component name="WindowStateProjectService">
+    <state x="152" y="68" key="MergeDialog" timestamp="1634481032679">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="152" y="68" key="MergeDialog/0.0.1600.860@0.0.1600.860" timestamp="1634481032679" />
+    <state x="512" y="147" key="MultipleFileMergeDialog" timestamp="1634481032695">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="512" y="147" key="MultipleFileMergeDialog/0.0.1600.860@0.0.1600.860" timestamp="1634481032695" />
+  </component>
 </project>
