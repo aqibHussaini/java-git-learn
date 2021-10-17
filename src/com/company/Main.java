@@ -6,6 +6,7 @@ public class Main {
 	System.out.println("hello world!!!");
 	System.out.println("this is my first java project with git and intelij by dev1!!");
 	sum();
+	System.out.println("main end");
     }
     public static void sum()
     {
