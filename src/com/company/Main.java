@@ -22,6 +22,9 @@ public class Main {
             Map.Entry entry=(Map.Entry) iterator.next();
             System.out.println(entry.getKey()+" = "+entry.getValue());
         }
+        hashMap.forEach((k,v)->{
+            System.out.println(k+" = "+v);
+        });
         System.out.println("main end");
     }
     public static void Sum()
