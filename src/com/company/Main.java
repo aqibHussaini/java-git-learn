@@ -7,7 +7,7 @@ import java.util.Map;
 public class Main {
 
     public static void main(String[] args) {
-        System.out.println("hello world!!!");
+        System.out.println("hello world This is java!!!");
         System.out.println("this is my first java project with git and intelij by dev1!!");
         System.out.println("hello pakistan!!!");
         Sum();
