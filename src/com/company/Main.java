@@ -10,7 +10,7 @@ public class Main {
         System.out.println("hello world This is java!!!");
         System.out.println("this is my first java project with git and intelij by dev1!!");
         System.out.println("hello pakistan!!!");
-        Sum();
+        SUM();
         subtract();
         HashMap<String,String> hashMap=new HashMap<>();
         hashMap.put("name","ali");
@@ -22,12 +22,13 @@ public class Main {
             Map.Entry entry=(Map.Entry) iterator.next();
             System.out.println(entry.getKey()+" = "+entry.getValue());
         }
-        hashMap.forEach((k,v)->{
-            System.out.println(k+" = "+v);
+        hashMap.forEach((key,v)->{
+            System.out.println(key+" = "+v);
         });
+        System.out.println("main about to end");
         System.out.println("main end");
     }
-    public static void Sum()
+    public static void SUM()
     {
         int value=10,b=20;
         System.out.println("sum = "+value+b);
