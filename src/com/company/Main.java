@@ -1,14 +1,28 @@
 package com.company;
 
+import java.util.HashMap;
+import java.util.Iterator;
+import java.util.Map;
+
 public class Main {
 
     public static void main(String[] args) {
-	System.out.println("hello world!!!");
-	System.out.println("this is my first java project with git and intelij by dev1!!");
-	System.out.println("hello pakistan!!!");    
-	Sum();
-	subtract();
-	System.out.println("main end");
+        System.out.println("hello world!!!");
+        System.out.println("this is my first java project with git and intelij by dev1!!");
+        System.out.println("hello pakistan!!!");
+        Sum();
+        subtract();
+        HashMap<String,String> hashMap=new HashMap<>();
+        hashMap.put("name","ali");
+        hashMap.put("age","20");
+        hashMap.put("class","mcs");
+        Iterator iterator= hashMap.entrySet().iterator();
+        while(iterator.hasNext())
+        {
+            Map.Entry entry=(Map.Entry) iterator.next();
+            System.out.println(entry.getKey()+" = "+entry.getValue());
+        }
+        System.out.println("main end");
     }
     public static void Sum()
     {
