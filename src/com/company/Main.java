@@ -3,6 +3,7 @@ package com.company;
 import java.util.HashMap;
 import java.util.Iterator;
 import java.util.Map;
+import java.util.TreeMap;
 
 public class Main {
 
@@ -25,6 +26,13 @@ public class Main {
         }
         hashMap.forEach((key,v)->{
             System.out.println(key+" = "+v);
+        });
+        TreeMap<String,String> myTreeMap=new TreeMap<>();
+        myTreeMap.put("name","ali");
+        myTreeMap.put("age","20");
+        myTreeMap.put("class","mcs");
+        myTreeMap.forEach((k,v)->{
+            System.out.println(k+" = "+v);
         });
         System.out.println("main about to end");
         System.out.println("main end");
