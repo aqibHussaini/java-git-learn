@@ -11,7 +11,7 @@ public class Main {
         System.out.println("hello world This is java!!!");
         System.out.println("this is my first java project with git and intelij by dev1!!");
         System.out.println("hello pakistan!!!");
-        SUM();
+        sum();
         subtract();
         HashMap<String,String> hashMap=new HashMap<>();
         hashMap.put("name","ali");
