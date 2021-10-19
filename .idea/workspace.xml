@@ -73,13 +73,17 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state width="1557" height="19" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1634493748568" />
-    <state x="147" y="68" width="1453" height="724" key="MergeDialog" timestamp="1634491271242">
+    <state x="147" y="68" width="1453" height="724" key="MergeDialog" timestamp="1634625620414">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="147" y="68" width="1453" height="724" key="MergeDialog/0.0.1600.860@0.0.1600.860" timestamp="1634491271242" />
-    <state x="512" y="147" key="MultipleFileMergeDialog" timestamp="1634491271264">
+    <state x="147" y="68" width="1453" height="724" key="MergeDialog/0.0.1600.860@0.0.1600.860" timestamp="1634625620414" />
+    <state x="512" y="147" key="MultipleFileMergeDialog" timestamp="1634625620423">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="512" y="147" key="MultipleFileMergeDialog/0.0.1600.860@0.0.1600.860" timestamp="1634491271264" />
+    <state x="512" y="147" key="MultipleFileMergeDialog/0.0.1600.860@0.0.1600.860" timestamp="1634625620423" />
+    <state x="560" y="144" key="RollbackChangesDialog" timestamp="1634625574308">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="560" y="144" key="RollbackChangesDialog/0.0.1600.860@0.0.1600.860" timestamp="1634625574308" />
   </component>
 </project>
