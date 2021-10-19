@@ -8,7 +8,7 @@ public class Main {
 
     public static void main(String[] args) {
         System.out.println("hello world This is java!!!");
-        System.out.println("hello world This is java!!!");
+        System.out.println("hello to this app");
         System.out.println("this is my first java project with git and intelij by dev1!!");
         System.out.println("hello pakistan!!!");
         SUM();
